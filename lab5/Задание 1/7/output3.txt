@@ -1,0 +1,4 @@
+<span>В</span> <span>инпут</span> <span>вводится</span> <span>дата</span> <span>рождения</span> <span>юзера</span> <span>в</span> <span>формате</span> <span>год-месяц-день.</span>
+<span>После</span> <span>отправки</span> <span>формы</span> <span>выведите</span> <span>на</span> <span>экран</span> <span>HTML</span> <span>таблицу,</span>
+<span>где</span> <span>в</span> <span>первой</span> <span>колонке</span> <span>будут</span> <span>все</span> <span>даты</span> <span>рождения</span> <span>юзера,</span>
+<span>а</span> <span>во</span> <span>второй</span> <span>колонке</span> <span>-</span> <span>соответствующие</span> <span>дни</span> <span>недели.</span>
